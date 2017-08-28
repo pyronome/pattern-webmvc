@@ -12,11 +12,11 @@ For Pyronome documentation, please visit https://pyronome.com/documentation.
 
 ## Contributing
 
-Please use the [issue tracker](https://github.com/pyronome/documentation/issues) to report any bugs/typos or requests.
+Please use the [issue tracker](https://github.com/pyronome/schemas/issues) to report any bugs/typos or requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/pyronome/help/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/pyronome/schemas/tags). 
 
 ## Authors
 
