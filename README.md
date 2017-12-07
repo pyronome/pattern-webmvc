@@ -2,7 +2,7 @@
 
 # Pyronome Web MVC Schema
 
-**Pyronome** is an online source code generator, that can be used any kind of software technology such as C++, Java, C#, PHP, Node.js, Ruby, Perl, Python, XML, HTML, CSS, JavaScript and etc.
+**Pyronome** is an online source code generator, that can be used any kind of software technology such as C++, Java, C#, PHP, Ruby, Perl, Python, XML, HTML, CSS, JavaScript and etc.
 
 For further information, please visit https://pyronome.com.
 
@@ -12,11 +12,11 @@ For Pyronome documentation, please visit https://pyronome.com/documentation.
 
 ## Contributing
 
-Please use the [issue tracker](https://github.com/pyronome/schemas/issues) to report any bugs/typos or requests.
+Please use the [issue tracker](https://github.com/pyronome/schema-webmvc/issues) to report any bugs/typos or requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/pyronome/schemas/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/pyronome/schema-webmvc/tags). 
 
 ## Authors
 
