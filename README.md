@@ -1,4 +1,4 @@
-![Pyronome Web MVC Schema Public Repository](https://github.com/pyronome/pattern-webmvc/blob/master/README.png "Pyronome Web MVC Schema Public Repository")
+![Pyronome Web MVC Schema Public Repository](https://github.com/pyronome/pattern-webmvc/raw/master/README.png "Pyronome Web MVC Schema Public Repository")
 
 # Pyronome Web MVC Schema
 
