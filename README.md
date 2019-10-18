@@ -6,9 +6,7 @@
 
 For further information, please visit https://pyronome.com.
 
-This repository contains Pyronome **Web MVC Schema**, the web MVC meta definitions of the specific software methodologies.
-
-For Pyronome documentation, please visit https://pyronome.com/documentation.
+This repository contains Pyronome **Web MVC Schema**, the web MVC meta definitions for web technologies.
 
 ## Contributing
 
