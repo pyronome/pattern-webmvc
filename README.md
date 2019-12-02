@@ -19,4 +19,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/pyronome/pattern-webmvc/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pyronome/pattern-webmvc/blob/master/LICENSE) file for details
