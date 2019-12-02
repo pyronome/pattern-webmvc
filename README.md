@@ -1,5 +1,3 @@
-![Pyronome Web MVC Schema Public Repository](https://raw.githubusercontent.com/pyronome/pattern-webmvc/master/README.png "Pyronome Web MVC Schema Public Repository")
-
 # Pyronome Web MVC Schema
 
 **Pyronome** is an online source code generator, that can be used any kind of software technology such as C++, Java, C#, PHP, Ruby, Perl, Python, XML, HTML, CSS, JavaScript and etc.
@@ -10,11 +8,11 @@ This repository contains Pyronome **Web MVC Schema**, the web MVC meta definitio
 
 ## Contributing
 
-Please use the [issue tracker](https://github.com/pyronome/schema-webmvc/issues) to report any bugs/typos or requests.
+Please use the [issue tracker](https://github.com/pyronome/pattern-webmvc/issues) to report any bugs/typos or requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/pyronome/schema-webmvc/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]https://github.com/pyronome/pattern-webmvc/tags). 
 
 ## Authors
 
@@ -23,4 +21,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/pyronome/pattern-webmvc/LICENSE) file for details
