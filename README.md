@@ -1,6 +1,3 @@
-**Pyronome** is an online platform that allows software developers to develop sustainable and scalable software solutions really fast.
-For further information, please visit https://pyronome.com.
-
 This repository contains Pyronome **Web MVC Schema**, the web MVC meta definitions for web technologies. This schema is the base pattern that will be used in all web technologies. This approach makes it possible to switch between technologies and update older versions to the newer ones easily.
 
 ## Contributing
